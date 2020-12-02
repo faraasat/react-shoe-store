@@ -1,14 +1,42 @@
 {
-  "air-jordan-3-valor-blue": {
-    "name": "VALOUR BLUE",
+  "nike-1": {
+    "name": "NIKE 1",
     "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
   },
-  "jordan-mars-270-london": {
-    "name": "JORDAN MARS 270 LONDON",
+  "adidas-1": {
+    "name": "ADIDAS 1",
     "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
   },
-  "air-jordan-1-zoom-racer-blue": {
-    "name": "RACER BLUE",
+  "adidas-2": {
+    "name": "ADIDAS 2",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "adidas-3": {
+    "name": "ADIDAS 3",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "adidas-4": {
+    "name": "ADIDAS 4",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "nike-2": {
+    "name": "NIKE 2",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "adidas-5": {
+    "name": "ADIDAS 5",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "adidas-6": {
+    "name": "ADIDAS 6",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "nike-3": {
+    "name": "NIKE 3",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "nike-4": {
+    "name": "NIKE 4",
     "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
   }
 }
