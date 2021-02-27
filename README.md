@@ -1,9 +1,3 @@
-# This is a simple shoe store in which routing is implemented
-
-### To access this app click :
-
-http://store-shoe.surge.sh/
-
 # 👨‍💻 React Shoe Store App.
 ## 📽 A project based on Panacloud React Bootcamp [Project 3].
 
@@ -30,6 +24,8 @@ http://store-shoe.surge.sh/
 </p>
 
 ### 📷 Project UI:
+#### This is only Front-Page UI!
+
 <p align="center">
   <a href="http://store-shoe.surge.sh/">
     <img width='65%' src="screen-shot.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
